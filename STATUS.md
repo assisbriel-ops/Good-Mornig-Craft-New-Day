@@ -19,6 +19,7 @@
 - 26/11: pedra negra com topo igual à lateral e emenda limpa.
 - 26/11: farejador (São Bernardo): grão + véu creme, manchas na cor do pelo, boca, junção cabeça/focinho e orelhas ajustadas.
 - 26/11: fogueira e fogueira das almas: chamas próprias, toras acesas animadas por troca de quadros; fogo do bloco com ponta laranja e pontinhas (frametime 2).
+- 26/11: aldeões do pântano, da savana e da selva refeitos a partir do aldeão base da planície.
 
 ## 🔨 Em andamento
 - 26/11: menu do beacon (`gui/container/beacon` + `sprites/container/beacon/*`): papel do baú duplo, painéis rebaixados, pirâmides de blocos de minério, botões de madeira, escolhido = face do beacon, visto/X das lãs. Falta testar no jogo e o "ficou pronto".
