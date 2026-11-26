@@ -16,7 +16,7 @@ Este arquivo é o único que se lê sempre. **Todo o resto é consulta sob deman
 | o que é vanilla / nomes próprios do pacote | `docs/indice-pacote.md` |
 | código (cor OKLCH, ajuste, pranchas) | `tools/gm_tools.py` → `sys.path.insert(0,'tools'); from gm_tools import *` |
 
-`docs/regras/`: `01-principios-e-gm` · `03-processo` (colorizar, tabela H/S) · `04-estrutura` (motivos, luz, emenda, construídos) · `05-cor` (lãs, madeiras, metais, folhagem) · `06-entidades` · `07-itens-interface` · `08-lugares` (Nether, End, Sculk) · `09-receitas-e-licoes`.
+`docs/regras/`: `01-principios-e-gm` · `03-processo` (colorizar, tabela H/S) · `04-estrutura` (motivos, luz, emenda, construídos) · `05-cor` (lãs, madeiras, metais, folhagem) · `06-entidades` · `07-itens-interface` · `08-lugares` (Nether, End, Sculk) · `09-receitas-e-licoes` · `10-animacao` (qualquer textura animada).
 
 ## Regras de conversa (pedidos do Gabriel)
 - Português, curto e objetivo. Diferenças em **porcentagem** (claridade e saturação); matiz pelo nome da cor.
