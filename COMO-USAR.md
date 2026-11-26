@@ -1,12 +1,20 @@
-# Como usar (cole no início de cada chat)
+# Como usar
 
-> Repo: assisbriel-ops/Good-Mornig-Craft-New-Day. Leia o STATUS.md. Hoje vou trabalhar em: ____.
-> Regras: salve toda textura direto no repo no caminho certo de assets/minecraft/textures/,
-> 16x16 PNG salvo outro tamanho combinado. Imagens sem lugar vão para inbox/.
-> No final, atualize o STATUS.md e faça commit.
+## Para abrir um chat (cole isto)
+> Repo GM. Hoje: ____.
+
+(O `CLAUDE.md` do repo carrega sozinho e já diz o que ler. Não precisa repetir regras.)
 
 ## Para terminar o chat
-> Salva no repo e atualiza o STATUS.
+> Ficou pronto. Salva e atualiza o STATUS.
 
 ## Para testar no Minecraft
 Releases → baixar o .zip → colocar em .minecraft/resourcepacks (não precisa descompactar).
+
+## Onde fica cada coisa
+- `CLAUDE.md` — instruções curtas (lidas sempre)
+- `STATUS.md` — o que está feito / em andamento / próximo
+- `docs/regras/` — estilo e cor, um arquivo por assunto
+- `docs/decisoes/` — o que já foi aprovado, por categoria
+- `docs/metodo-producao.md` — só para peça nova
+- `tools/gm_tools.py` — código de cor e pranchas
