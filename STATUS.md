@@ -9,10 +9,10 @@
 
 - 26/11: instruções reorganizadas para economizar tokens: `CLAUDE.md` curto + `docs/` (regras e decisões por assunto) + `tools/gm_tools.py` lendo direto do repo. O projeto no Claude não precisa mais do zip.
 
-- 26/11: seagrass e tall_seagrass redesenhadas e reanimadas (regras em `docs/regras/10-animacao.md`).
+- 26/11: kelp ajustado (20 quadros, caule conectado); seagrass e tall_seagrass redesenhadas e reanimadas (regras em `docs/regras/10-animacao.md`).
 
 ## 🔨 Em andamento
-- kelp / kelp_plant: ajuste pontual (caule desconectado em 2 quadros) + quadros intermediários (10→20)
+-
 
 ## 📋 Próximo
 -
