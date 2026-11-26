@@ -8,6 +8,7 @@
 - `entity/banner/base.png` e `widget/text_field` (+ `highlighted`) ficaram na versão antiga, de propósito.
 
 - 26/11: instruções reorganizadas para economizar tokens: `CLAUDE.md` curto + `docs/` (regras e decisões por assunto) + `tools/gm_tools.py` lendo direto do repo. O projeto no Claude não precisa mais do zip.
+- 26/11: velas coloridas mais vivas (opção 1) + velas em grupo com variação (modelos `template_*_candles`).
 
 ## 🔨 Em andamento
 -
