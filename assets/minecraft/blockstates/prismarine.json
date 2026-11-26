@@ -1,0 +1,46 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/prismarine",
+        "weight": 600
+      },
+      {
+        "model": "minecraft:block/prismarine1",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/prismarine2",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/prismarine3",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/prismarine4",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/prismarine5",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/prismarine6",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/prismarine7",
+        "weight": 30
+      },
+      {
+        "model": "minecraft:block/prismarine8",
+        "weight": 30
+      },
+      {
+        "model": "minecraft:block/prismarine9",
+        "weight": 20
+      }
+    ]
+  }
+}

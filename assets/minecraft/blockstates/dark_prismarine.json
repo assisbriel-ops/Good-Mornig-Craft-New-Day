@@ -1,0 +1,54 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/dark_prismarine",
+        "weight": 600
+      },
+      {
+        "model": "minecraft:block/dark_prismarine1",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/dark_prismarine2",
+        "weight": 35
+      },
+      {
+        "model": "minecraft:block/dark_prismarine3",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/dark_prismarine4",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/dark_prismarine5",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/dark_prismarine6",
+        "weight": 35
+      },
+      {
+        "model": "minecraft:block/dark_prismarine7",
+        "weight": 35
+      },
+      {
+        "model": "minecraft:block/dark_prismarine8",
+        "weight": 35
+      },
+      {
+        "model": "minecraft:block/dark_prismarine9",
+        "weight": 25
+      },
+      {
+        "model": "minecraft:block/dark_prismarine10",
+        "weight": 25
+      },
+      {
+        "model": "minecraft:block/dark_prismarine_coin",
+        "weight": 3
+      }
+    ]
+  }
+}

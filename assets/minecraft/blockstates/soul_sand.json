@@ -1,0 +1,38 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/soul_sand",
+        "weight": 700
+      },
+      {
+        "model": "minecraft:block/soul_sand1",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/soul_sand2",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/soul_sand3",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/soul_sand4",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/soul_sand5",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/soul_sand6",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/soul_sand_face",
+        "weight": 3
+      }
+    ]
+  }
+}

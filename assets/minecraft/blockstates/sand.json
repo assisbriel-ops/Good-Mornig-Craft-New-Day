@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/sand",
+        "weight": 700
+      },
+      {
+        "model": "minecraft:block/sand1",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/sand2",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/sand3",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/sand4",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/sand5",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/sand_face",
+        "weight": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/snow_block",
+        "weight": 700
+      },
+      {
+        "model": "minecraft:block/snow1",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/snow2",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/snow3",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/snow4",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/snow5",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/snow6",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/snow_footprint",
+        "weight": 3
+      }
+    ]
+  }
+}

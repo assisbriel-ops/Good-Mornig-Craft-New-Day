@@ -1,0 +1,54 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/prismarine_bricks",
+        "weight": 600
+      },
+      {
+        "model": "minecraft:block/prismarine_bricks1",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/prismarine_bricks2",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/prismarine_bricks3",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/prismarine_bricks4",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/prismarine_bricks5",
+        "weight": 80
+      },
+      {
+        "model": "minecraft:block/prismarine_bricks6",
+        "weight": 40
+      },
+      {
+        "model": "minecraft:block/prismarine_bricks7",
+        "weight": 40
+      },
+      {
+        "model": "minecraft:block/prismarine_bricks8",
+        "weight": 80
+      },
+      {
+        "model": "minecraft:block/prismarine_bricks9",
+        "weight": 40
+      },
+      {
+        "model": "minecraft:block/prismarine_bricks10",
+        "weight": 25
+      },
+      {
+        "model": "minecraft:block/prismarine_bricks11",
+        "weight": 25
+      }
+    ]
+  }
+}

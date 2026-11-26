@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/sculk_shrieker",
+  "textures": {
+    "inner_top": "minecraft:block/sculk_shrieker_can_summon_inner_top",
+    "side": "minecraft:block/sculk_shrieker_side_can_summon",
+    "top": "minecraft:block/sculk_shrieker_top_can_summon"
+  }
+}

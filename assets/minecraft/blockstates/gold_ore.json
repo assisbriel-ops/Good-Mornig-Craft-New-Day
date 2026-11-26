@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/gold_ore",
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/gold_ore1",
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/gold_ore2",
+        "weight": 1
+      }
+    ]
+  }
+}

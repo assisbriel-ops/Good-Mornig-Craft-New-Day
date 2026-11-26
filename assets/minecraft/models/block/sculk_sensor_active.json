@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/sculk_sensor",
+  "textures": {
+    "tendrils": "minecraft:block/sculk_sensor_tendril_active",
+    "side": "minecraft:block/sculk_sensor_side_active"
+  }
+}

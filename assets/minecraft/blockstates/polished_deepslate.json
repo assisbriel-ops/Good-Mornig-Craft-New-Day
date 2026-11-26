@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/polished_deepslate", "weight": 3 },
+      { "model": "minecraft:block/polished_deepslate_2", "weight": 1 }
+    ]
+  }
+}
