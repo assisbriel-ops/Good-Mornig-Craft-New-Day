@@ -19,7 +19,7 @@
 - 26/11: pedra negra com topo igual à lateral e emenda limpa.
 
 ## 🔨 Em andamento
--
+- 26/11: menu do beacon (`gui/container/beacon` + `sprites/container/beacon/*`): papel do baú duplo, painéis rebaixados, pirâmides de blocos de minério, botões de madeira, escolhido = face do beacon, visto/X das lãs. Falta testar no jogo e o "ficou pronto".
 
 ## 📋 Próximo
 -
