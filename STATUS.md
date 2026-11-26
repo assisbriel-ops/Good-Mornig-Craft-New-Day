@@ -18,7 +18,6 @@
 - 26/11: basalto liso refeito (vesículas, cinza aquecido do basalto).
 - 26/11: pedra negra com topo igual à lateral e emenda limpa.
 - 26/11: farejador (São Bernardo): grão + véu creme, manchas na cor do pelo, boca, junção cabeça/focinho e orelhas ajustadas.
-
 - 26/11: fogueira e fogueira das almas: chamas próprias, toras acesas animadas por troca de quadros; fogo do bloco com ponta laranja e pontinhas (frametime 2).
 
 ## 🔨 Em andamento
