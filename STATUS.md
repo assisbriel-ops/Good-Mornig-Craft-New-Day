@@ -13,6 +13,10 @@
 - 26/11: instruções reorganizadas para economizar tokens: `CLAUDE.md` curto + `docs/` (regras e decisões por assunto) + `tools/gm_tools.py` lendo direto do repo. O projeto no Claude não precisa mais do zip.
 - 26/11: velas coloridas mais vivas (opção 1) + velas em grupo com variação (modelos `template_*_candles`).
 - 26/11: plantas e chão: musgo com grão e granulado; lírio-do-vale com 1 flor; pétalas rosas ovais com miolo rosa + 3 variações (85/5/5/5); partículas da cerejeira ovais; líquen brilhante sem o quadrado + 3 variações + espiral rara (68/10/10/10/2).
+- 26/11: tijolos de tufo e de ardósia com mais contraste + 3 variações cada.
+- 26/11: tufo liso e ardósia lisa com moldura mais suave; ardósia lisa sem variação.
+- 26/11: basalto liso refeito (vesículas, cinza aquecido do basalto).
+- 26/11: pedra negra com topo igual à lateral e emenda limpa.
 
 ## 🔨 Em andamento
 -

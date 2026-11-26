@@ -7,7 +7,7 @@ block 1145 · item 593 · entity 408 · particle 293 · gui 236 · mob_effect 35
 
 ## Nomes que não são do vanilla
 **Variações aleatórias de bloco** (blockstate com vários modelos; o número é a quantidade de variantes):
-- stone 8 (`stone1` a `stone6` + `stone_fossil`) · dirt 9 (`dirt1` a `dirt6`, `dirt_worm1`, `dirt_worm2`) · sand 7 (`sand1` a `sand5`, `sand_face`) · soul_sand 8 (`soul_sand1` a `6`, `soul_sand_face`) · snow_block 8 (`snow1` a `6`, `snow_footprint`) · cobblestone 5 (`cobblestone1` a `4`) · granite 5 (`granite1` a `4`) · stone_bricks 5 (`stone_bricks1` a `4`) · polished_deepslate 2 (`polished_deepslate_2`) · grass_block 2
+- stone 8 (`stone1` a `stone6` + `stone_fossil`) · dirt 9 (`dirt1` a `dirt6`, `dirt_worm1`, `dirt_worm2`) · sand 7 (`sand1` a `sand5`, `sand_face`) · soul_sand 8 (`soul_sand1` a `6`, `soul_sand_face`) · snow_block 8 (`snow1` a `6`, `snow_footprint`) · cobblestone 5 (`cobblestone1` a `4`) · granite 5 (`granite1` a `4`) · stone_bricks 5 (`stone_bricks1` a `4`) · tuff_bricks 4 (`tuff_bricks1` a `3`) · deepslate_bricks 4 (`deepslate_bricks1` a `3`) · grass_block 2
 - prismarine 10 (`prismarine1` a `9`) · prismarine_bricks 12 (`prismarine_bricks1` a `11`) · dark_prismarine 12 (`dark_prismarine1` a `10`, `dark_prismarine_coin`)
 - bookshelf 15 (`bookshelf`, `bookshelf_2` a `bookshelf_15`)
 - Variações de 25-11: dirt1–4, stone1–6, granite1–4, nether_wart_block1–4, mud1–4, coarse_dirt1–4, copper_ore1–3, iron_ore1–3, gold_ore1–2, diamond_ore1–3 (ver `docs/decisoes/blocos.md`).

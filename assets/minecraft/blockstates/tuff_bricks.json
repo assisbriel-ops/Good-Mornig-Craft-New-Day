@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/tuff_bricks",
+        "weight": 4
+      },
+      {
+        "model": "minecraft:block/tuff_bricks1",
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/tuff_bricks2",
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/tuff_bricks3",
+        "weight": 2
+      }
+    ]
+  }
+}
