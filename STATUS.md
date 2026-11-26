@@ -20,11 +20,14 @@
 - 26/11: farejador (São Bernardo): grão + véu creme, manchas na cor do pelo, boca, junção cabeça/focinho e orelhas ajustadas.
 - 26/11: fogueira e fogueira das almas: chamas próprias, toras acesas animadas por troca de quadros; fogo do bloco com ponta laranja e pontinhas (frametime 2).
 - 26/11: aldeões do pântano, da savana e da selva refeitos a partir do aldeão base da planície.
+- 26/11: piglins do Nether: bruto avermelhado (netherrack), zumbificado verde (pele do zumbi) sem terra nas patas, hoglin redesenhado com crina.
 
 ## 🔨 Em andamento
 - 26/11: menu do beacon (`gui/container/beacon` + `sprites/container/beacon/*`): papel do baú duplo, painéis rebaixados, pirâmides de blocos de minério, botões de madeira, escolhido = face do beacon, visto/X das lãs. Falta testar no jogo e o "ficou pronto".
 
 ## 📋 Próximo
+- Piglin bruto "sem uma orelha" no jogo: a textura tem as duas orelhas (iguais às do piglin); falta print para achar a causa.
+- Zoglin: ainda é o desenho antigo do hoglin em marrom (sem crina, mancha borrada no dorso, disco de nariz, presas mais brancas que o osso GM). Decidir se segue o hoglin novo.
 - Conferir `colormap()` do `gm_tools`: para planície devolve #F5C300 (amarelo).
 
 ## 📥 Inbox (imagens soltas para organizar)
