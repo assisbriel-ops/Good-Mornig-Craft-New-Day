@@ -24,9 +24,12 @@
 
 - 26/11: bancada de ferraria (`gui/container/smithing` + `sprites/container/smithing/error`): metal da fornalha, martelo e ">" da bigorna, elipse no resultado, painel rebaixado do manequim.
 
+- 26/11: seagrass e tall_seagrass redesenhadas e reanimadas (regras em `docs/regras/10-animacao.md`).
+
 ## 🔨 Em andamento
 - 26/11: **revisão do bambu.** Feito: rampas (casca verde + descascado caqui, em `docs/decisoes/blocos.md`), tronco, folhas, bloco com casca, bloco descascado (redesenho), tábua (desenho próprio). Falta: broto (`bamboo_stage0`, ainda bege), mosaico (inspirado na pedra talhada GM), porta, alçapão, cerca/portão, andaimes, jangada/bote, placas, ícones. Alternativas para testar no jogo em `inbox/`.
 - 26/11: menu do beacon (`gui/container/beacon` + `sprites/container/beacon/*`): papel do baú duplo, painéis rebaixados, pirâmides de blocos de minério, botões de madeira, escolhido = face do beacon, visto/X das lãs. Falta testar no jogo e o "ficou pronto".
+- kelp / kelp_plant: ajuste pontual (caule desconectado em 2 quadros) + quadros intermediários (10→20)
 
 ## 📋 Próximo
 - Ícones de slot vazio da armadura (`empty_armor_slot_*`, também no inventário) em contorno marrom, diferente dos outros cinza pintados: Gabriel decide depois.
