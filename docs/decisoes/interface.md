@@ -12,3 +12,4 @@ Formato: `caminho(s)` · data · o que ficou (forma, cor e fonte da cor). Só qu
 - `gui/sprites/recipe_book/filter_*`, `furnace_filter_*` · 25-11 · etiqueta no papel da página com sombra translúcida; grade (ou chama) de nanquim + visto de nanquim / X no vermelho da capa; mouse +4%.
 - `gui/sprites/recipe_book/button(_highlighted)` · 25-11 · papel quadrado de 17 px (fundo dos efeitos de poção) com sombra translúcida; livro da GM na cor da capa do livro de receitas, sem fita, linhas da capa −8%; mouse +4%.
 - Pendente: janelinha das variações (`overlay_recipe`, `crafting_overlay*`, `furnace_overlay*`) segue vanilla.
+- `particle/cherry_0–11` · 26-11 · pétalas ovais de ponta cortada (mesmos 3 tamanhos e 3 cores; claro em cima-esquerda, escuro embaixo-direita).
