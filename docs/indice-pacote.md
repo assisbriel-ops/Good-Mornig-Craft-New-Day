@@ -29,3 +29,7 @@ Lista de 25-11; o pacote de 26-11 já cobriu parte (empty_slot, light, water_ove
 - **Itens:** bundle_filled, spyglass_model
 - **Entidades:** os gatos domésticos (all_black, british_shorthair, calico, jellie, persian, ragdoll, tabby, white, cat_collar), zombie_villager inteiro, `wolf_collar`, os skins de jogador, fishing_hook, guardian_beam, end_gateway_beam, evoker_fangs, llama/spit, conduit/wind, trident_riptide, as flechas espectral e com efeito e wind_charge
 - **Outros:** pinturas (51), acabamentos de armadura (`trims`, 55), ícones do mapa (36), parte das partículas vanilla, parte dos sprites de interface
+
+**Alternativa x variação** (não confundir):
+- **Alternativa**: outra versão inteira da mesma textura, para o Gabriel testar no jogo e escolher a principal. Fica em `alternativos/` com o mesmo caminho e nome da principal (para testar, é só copiar por cima). Não entra no blockstate.
+- **Variação**: versões pequenas do mesmo bloco sorteadas pelo jogo (blockstate com `weight`), ex.: coarse_dirt1–4.
