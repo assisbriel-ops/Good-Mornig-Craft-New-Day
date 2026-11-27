@@ -1,38 +1,7 @@
 {
   "variants": {
-    "": [
-      {
-        "model": "minecraft:block/stone",
-        "weight": 700
-      },
-      {
-        "model": "minecraft:block/stone1",
-        "weight": 50
-      },
-      {
-        "model": "minecraft:block/stone2",
-        "weight": 50
-      },
-      {
-        "model": "minecraft:block/stone3",
-        "weight": 50
-      },
-      {
-        "model": "minecraft:block/stone4",
-        "weight": 50
-      },
-      {
-        "model": "minecraft:block/stone5",
-        "weight": 50
-      },
-      {
-        "model": "minecraft:block/stone6",
-        "weight": 50
-      },
-      {
-        "model": "minecraft:block/stone_fossil",
-        "weight": 3
-      }
-    ]
+    "": {
+      "model": "minecraft:block/stone"
+    }
   }
 }
