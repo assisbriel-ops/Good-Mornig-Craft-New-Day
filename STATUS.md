@@ -43,7 +43,7 @@
 - 27/11: conquistas: abas (`gui/sprites/advancements/tab_*`, 24 sprites) na madeira da moldura da janela, cantos arredondados, escolhida +4% e as outras −8%; aviso de conquista (`gui/sprites/toast/advancement`) em casca do carvalho deitada, cantos arredondados, com sombra redonda atrás do item seguindo a rampa da casca (claridade −37%, saturação −25%, piso L 0,24). Alternativa com sombra mais leve em `inbox/`. Falta testar no jogo e o "ficou pronto".
 
 ## 🔨 Em andamento
-- 26/11: **revisão do bambu.** Feito: rampas (casca verde + descascado caqui, em `docs/decisoes/blocos.md`), tronco, folhas, bloco com casca, bloco descascado (redesenho), tábua (desenho próprio). Falta: broto (`bamboo_stage0`, ainda bege), mosaico (inspirado na pedra talhada GM), porta, alçapão, cerca/portão, andaimes, jangada/bote, placas, ícones. Alternativas para testar no jogo em `inbox/`.
+- 26/11: **revisão do bambu.** Feito: rampas, tronco, folhas, blocos, tábua, broto, mosaico, porta e alçapão (verdes), andaimes (verdes), jangada, cerca/portão, placas, ícones do bambu e da porta. Falta: ícones da placa, placa pendurada, jangada e jangada com baú; grão/veio da tábua no bloco descascado. Alternativas para testar no jogo em `inbox/`.
 - 26/11: menu do beacon (`gui/container/beacon` + `sprites/container/beacon/*`): papel do baú duplo, painéis rebaixados, pirâmides de blocos de minério, botões de madeira, escolhido = face do beacon, visto/X das lãs. Falta testar no jogo e o "ficou pronto".
 
 - 26/11: gerador de montras (`block/spawner`): principal = opção com detalhes em cáqui nos cantos e no aro; alternativa cinza puro em `inbox/spawner_alt1.png`. Falta testar no jogo e o "ficou pronto".
