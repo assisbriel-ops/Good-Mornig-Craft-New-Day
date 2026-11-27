@@ -38,3 +38,4 @@
 
 ## 📥 Inbox (imagens soltas para organizar)
 - `bamboo_block(_top)_alt2`, `stripped_bamboo_block(_top)_alt1`, `_alt2`: alternativas do bambu para testar no jogo (trocar pelos de `block/`).
+- `kelp_alt1` + `kelp_plant_alt1` (kelp redesenhado) e `seagrass_alt1` (seagrass antiga ajustada), com `.mcmeta`: alternativas das algas para testar no jogo.

@@ -31,5 +31,5 @@ Lista de 25-11; o pacote de 26-11 já cobriu parte (empty_slot, light, water_ove
 - **Outros:** pinturas (51), acabamentos de armadura (`trims`, 55), ícones do mapa (36), parte das partículas vanilla, parte dos sprites de interface
 
 **Alternativa x variação** (não confundir):
-- **Alternativa**: outra versão inteira da mesma textura, para o Gabriel testar no jogo e escolher a principal. Fica em `alternativos/` com o mesmo caminho e nome da principal (para testar, é só copiar por cima). Não entra no blockstate.
+- **Alternativa**: outra versão inteira da mesma textura, para o Gabriel testar no jogo e escolher a principal. Fica em `inbox/` como `<nome>_altN.png` (+ `.mcmeta` se animada); para testar, renomear e copiar por cima da principal. Não entra no blockstate.
 - **Variação**: versões pequenas do mesmo bloco sorteadas pelo jogo (blockstate com `weight`), ex.: coarse_dirt1–4.
