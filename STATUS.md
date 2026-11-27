@@ -33,6 +33,7 @@
 - 27/11: tear: topo girado (pano encaixa no pano da frente); atrás nova `block/loom_back` (prateleiras vazias, fundo com a madeira da bancada de cartografia) via modelo próprio `models/block/loom.json`; novelos só nas laterais. Falta testar no jogo e o "ficou pronto".
 - 27/11: pepino-do-mar (`block/sea_pickle`) refeito no clima dos corais: verde-oliva +18%, poros suaves, fio de luz amarelo claro conectado (pedra luminosa + leque de coral-de-chifre). Ícone `item/sea_pickle` ainda o antigo. Falta testar no jogo e o "ficou pronto".
 - 27/11: bolinha de experiência (`entity/experience_orb`) virou estrela âmbar com centro claro (5 tamanhos repetidos nos 11 níveis).
+- 27/11: brilho de encantamento dos itens (`misc/enchanted_glint_item`, 128x128): 10 faixas verticais que passam da esquerda para a direita, rampa inteira do olho do Ender (#331C47 → #B49DC8), item sempre banhado (piso 25%) com frestas finas sem cor. Alternativa com o olho só até #9367BC em `inbox/`. Falta testar no jogo e o "ficou pronto".
 - 27/11: cobre cortado (4 estágios) com grão no padrão GM + 4 variações sorteadas cada (normal e exposto ±3%; desgastado e oxidado só escurecem 3%). Aprovado. Cortados encerados com o grão novo + brilho, sem variação (de propósito).
 - 27/11: portas e alçapões de cobre (4 estágios + encerados): só grão (manchinhas + fino; normal/exposto 3%/1,2%, desgastado/oxidado 4%/1,5%), desenho igual; encerados = mesmo brilho de antes. Lâmpada não mexida. Falta o "ficou pronto".
 
@@ -47,10 +48,11 @@
 - Ícones de slot vazio da armadura (`empty_armor_slot_*`, também no inventário) em contorno marrom, diferente dos outros cinza pintados: Gabriel decide depois.
 - Piglin bruto "sem uma orelha" no jogo: a textura tem as duas orelhas (iguais às do piglin); falta print para achar a causa.
 - Zoglin: ainda é o desenho antigo do hoglin em marrom (sem crina, mancha borrada no dorso, disco de nariz, presas mais brancas que o osso GM). Decidir se segue o hoglin novo.
-- Ideia para depois: trocar cor e desenho do brilho de encantamento (`misc/enchanted_glint_*`), só pela textura.
+- Brilho de encantamento de armadura vestida, tridente e élitro (`misc/enchanted_glint_entity`) ainda é o vanilla: decidir se segue o dos itens.
 - Conferir `colormap()` do `gm_tools`: para planície devolve #F5C300 (amarelo).
 
 ## 📥 Inbox (imagens soltas para organizar)
 - `bamboo_block(_top)_alt2`, `stripped_bamboo_block(_top)_alt1`, `_alt2`: alternativas do bambu para testar no jogo (trocar pelos de `block/`).
 - `kelp_alt1` + `kelp_plant_alt1` (kelp redesenhado) e `seagrass_alt1` (seagrass antiga ajustada), com `.mcmeta`: alternativas das algas para testar no jogo.
+- `enchanted_glint_item_alt1`: alternativa do brilho de encantamento (olho do Ender só até o médio, mais perto do roxo conhecido) para testar no jogo (trocar por `misc/enchanted_glint_item`).
 - `spawner_alt1`: alternativa do gerador de montras (cinza puro, sem o cáqui) para testar no jogo (trocar por `block/spawner`).
