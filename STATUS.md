@@ -40,6 +40,7 @@
 - 27/11: pés das 16 camas (`entity/bed/*`) no marrom da lateral (#93623E / #7B5336 / #604929, 3 tons), escuro sempre na quina de fora (conferido na cama montada). O corte triangular não é possível (a cama não aceita transparência). Falta o "ficou pronto".
 - 27/11: moldura do portal do End: lateral (`end_portal_frame_side`) com gosma violeta do olho do Ender subindo da base, mesma altura nas bordas (emenda com a vizinha), 2 gotas soltas e grão leve; fundo novo `end_portal_frame_bottom` todo de gosma via modelo próprio `models/block/end_portal_frame.json`. Falta testar no jogo e o "ficou pronto".
 - 27/11: trio granito, diorito e andesito: diorito com manchas mais quadradas (ajuste de 1 px); granito sem variações; lisos refeitos a partir do bruto + corte, com polimento leve. Aprovado.
+- 27/11: conquistas: abas (`gui/sprites/advancements/tab_*`, 24 sprites) na madeira da moldura da janela, cantos arredondados, escolhida +4% e as outras −8%; aviso de conquista (`gui/sprites/toast/advancement`) em casca do carvalho deitada, cantos arredondados, com sombra redonda atrás do item seguindo a rampa da casca (claridade −37%, saturação −25%, piso L 0,24). Alternativa com sombra mais leve em `inbox/`. Falta testar no jogo e o "ficou pronto".
 
 ## 🔨 Em andamento
 - 26/11: **revisão do bambu.** Feito: rampas (casca verde + descascado caqui, em `docs/decisoes/blocos.md`), tronco, folhas, bloco com casca, bloco descascado (redesenho), tábua (desenho próprio). Falta: broto (`bamboo_stage0`, ainda bege), mosaico (inspirado na pedra talhada GM), porta, alçapão, cerca/portão, andaimes, jangada/bote, placas, ícones. Alternativas para testar no jogo em `inbox/`.
@@ -60,3 +61,4 @@
 - `kelp_alt1` + `kelp_plant_alt1` (kelp redesenhado) e `seagrass_alt1` (seagrass antiga ajustada), com `.mcmeta`: alternativas das algas para testar no jogo.
 - `enchanted_glint_item_alt1`: alternativa do brilho de encantamento (olho do Ender só até o médio, mais perto do roxo conhecido) para testar no jogo (trocar por `misc/enchanted_glint_item`).
 - `spawner_alt1`: alternativa do gerador de montras (cinza puro, sem o cáqui) para testar no jogo (trocar por `block/spawner`).
+- `advancement_toast_alt1`: alternativa do aviso de conquista (sombra do item mais leve: claridade −30%, saturação −22%) para testar no jogo (trocar por `gui/sprites/toast/advancement`).
