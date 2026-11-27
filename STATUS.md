@@ -35,7 +35,7 @@
 - 27/11: bolinha de experiência (`entity/experience_orb`) virou estrela âmbar com centro claro (5 tamanhos repetidos nos 11 níveis).
 - 27/11: brilho de encantamento dos itens (`misc/enchanted_glint_item`, 128x128): 10 faixas verticais que passam da esquerda para a direita, rampa inteira do olho do Ender (#331C47 → #B49DC8), item sempre banhado (piso 25%) com frestas finas sem cor. Alternativa com o olho só até #9367BC em `inbox/`. Falta testar no jogo e o "ficou pronto".
 - 27/11: cobre cortado (4 estágios) com grão no padrão GM + 4 variações sorteadas cada (normal e exposto ±3%; desgastado e oxidado só escurecem 3%). Aprovado. Cortados encerados com o grão novo + brilho, sem variação (de propósito).
-- 27/11: portas e alçapões de cobre (4 estágios + encerados): só grão (manchinhas + fino; normal/exposto 3%/1,2%, desgastado/oxidado 4%/1,5%), desenho igual; encerados = mesmo brilho de antes. Lâmpada não mexida. Falta o "ficou pronto".
+- 27/11: portas e alçapões de cobre (4 estágios + encerados): grão bem leve, no nível da porta de ferro GM (fino ±0,6% + pintinhas raras ±2%), desenho igual; encerados com o mesmo brilho de antes. Lâmpada não mexida. Falta o "ficou pronto".
 
 ## 🔨 Em andamento
 - 26/11: **revisão do bambu.** Feito: rampas (casca verde + descascado caqui, em `docs/decisoes/blocos.md`), tronco, folhas, bloco com casca, bloco descascado (redesenho), tábua (desenho próprio). Falta: broto (`bamboo_stage0`, ainda bege), mosaico (inspirado na pedra talhada GM), porta, alçapão, cerca/portão, andaimes, jangada/bote, placas, ícones. Alternativas para testar no jogo em `inbox/`.
