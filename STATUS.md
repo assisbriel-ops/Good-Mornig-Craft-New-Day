@@ -26,6 +26,8 @@
 
 - 26/11: kelp ajustado (20 quadros, caule conectado); seagrass e tall_seagrass redesenhadas e reanimadas (regras em `docs/regras/10-animacao.md`).
 
+- 27/11: arenitos: cinzelados (normal refeito a partir do vermelho, encaixe com o tijolo, topo com moldura), bases de peças grandes (`sandstone_bottom`, `red_sandstone_bottom`) e modelos novos `cut_sandstone`, `cut_sandstone_slab(_top)`, `chiseled_*`. Falta testar no jogo e o "ficou pronto".
+
 ## 🔨 Em andamento
 - 26/11: **revisão do bambu.** Feito: rampas (casca verde + descascado caqui, em `docs/decisoes/blocos.md`), tronco, folhas, bloco com casca, bloco descascado (redesenho), tábua (desenho próprio). Falta: broto (`bamboo_stage0`, ainda bege), mosaico (inspirado na pedra talhada GM), porta, alçapão, cerca/portão, andaimes, jangada/bote, placas, ícones. Alternativas para testar no jogo em `inbox/`.
 - 26/11: menu do beacon (`gui/container/beacon` + `sprites/container/beacon/*`): papel do baú duplo, painéis rebaixados, pirâmides de blocos de minério, botões de madeira, escolhido = face do beacon, visto/X das lãs. Falta testar no jogo e o "ficou pronto".
