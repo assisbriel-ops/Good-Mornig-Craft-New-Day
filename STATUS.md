@@ -32,6 +32,7 @@
 - 27/11: obsidiana chorona (`block/crying_obsidian`) sem animação: ficou parada no quadro 1 (o mais brilhante); `.mcmeta` removido. Falta o "ficou pronto".
 - 27/11: tear: topo girado (pano encaixa no pano da frente); atrás nova `block/loom_back` (prateleiras vazias, fundo com a madeira da bancada de cartografia) via modelo próprio `models/block/loom.json`; novelos só nas laterais. Falta testar no jogo e o "ficou pronto".
 - 27/11: pepino-do-mar (`block/sea_pickle`) refeito no clima dos corais: verde-oliva +18%, poros suaves, fio de luz amarelo claro conectado (pedra luminosa + leque de coral-de-chifre). Ícone `item/sea_pickle` ainda o antigo. Falta testar no jogo e o "ficou pronto".
+- 27/11: bolinha de experiência (`entity/experience_orb`) virou estrela âmbar com centro claro (5 tamanhos repetidos nos 11 níveis).
 
 ## 🔨 Em andamento
 - 26/11: **revisão do bambu.** Feito: rampas (casca verde + descascado caqui, em `docs/decisoes/blocos.md`), tronco, folhas, bloco com casca, bloco descascado (redesenho), tábua (desenho próprio). Falta: broto (`bamboo_stage0`, ainda bege), mosaico (inspirado na pedra talhada GM), porta, alçapão, cerca/portão, andaimes, jangada/bote, placas, ícones. Alternativas para testar no jogo em `inbox/`.
@@ -44,6 +45,7 @@
 - Ícones de slot vazio da armadura (`empty_armor_slot_*`, também no inventário) em contorno marrom, diferente dos outros cinza pintados: Gabriel decide depois.
 - Piglin bruto "sem uma orelha" no jogo: a textura tem as duas orelhas (iguais às do piglin); falta print para achar a causa.
 - Zoglin: ainda é o desenho antigo do hoglin em marrom (sem crina, mancha borrada no dorso, disco de nariz, presas mais brancas que o osso GM). Decidir se segue o hoglin novo.
+- Ideia para depois: trocar cor e desenho do brilho de encantamento (`misc/enchanted_glint_*`), só pela textura.
 - Conferir `colormap()` do `gm_tools`: para planície devolve #F5C300 (amarelo).
 
 ## 📥 Inbox (imagens soltas para organizar)
