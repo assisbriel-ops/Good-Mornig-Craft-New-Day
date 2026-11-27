@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:block/cube",
+  "display": {
+    "firstperson_righthand": { "rotation": [0, 135, 0], "translation": [0, 0, 0], "scale": [0.40, 0.40, 0.40] }
+  },
+  "textures": {
+    "particle": "minecraft:block/loom_front",
+    "down": "minecraft:block/loom_bottom",
+    "up": "minecraft:block/loom_top",
+    "north": "minecraft:block/loom_front",
+    "south": "minecraft:block/loom_back",
+    "east": "minecraft:block/loom_side",
+    "west": "minecraft:block/loom_side"
+  }
+}
