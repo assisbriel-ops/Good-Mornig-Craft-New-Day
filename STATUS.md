@@ -29,6 +29,7 @@
 - 27/11: arenitos: cinzelados (normal refeito a partir do vermelho, encaixe com o tijolo, topo com moldura), bases de peças grandes (`sandstone_bottom`, `red_sandstone_bottom`) e modelos novos `cut_sandstone`, `cut_sandstone_slab(_top)`, `chiseled_*`. Falta testar no jogo e o "ficou pronto".
 - 27/11: ninho de abelha (`bee_nest_top`): topo novo em domo, claro no centro, emendando com a lateral.
 - 27/11: cobre encerado (4 blocos inteiros) refeito: brilho metálico leve e largo, sem embranquecer; cada estágio sobre o seu cobre normal. Cortado, cinzelado, grade, lâmpada, porta e alçapão encerados ficaram como estavam.
+- 27/11: obsidiana chorona (`block/crying_obsidian`) sem animação: ficou parada no quadro 1 (o mais brilhante); `.mcmeta` removido. Falta o "ficou pronto".
 
 ## 🔨 Em andamento
 - 26/11: **revisão do bambu.** Feito: rampas (casca verde + descascado caqui, em `docs/decisoes/blocos.md`), tronco, folhas, bloco com casca, bloco descascado (redesenho), tábua (desenho próprio). Falta: broto (`bamboo_stage0`, ainda bege), mosaico (inspirado na pedra talhada GM), porta, alçapão, cerca/portão, andaimes, jangada/bote, placas, ícones. Alternativas para testar no jogo em `inbox/`.
