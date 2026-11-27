@@ -25,6 +25,7 @@
 - 26/11: bancada de ferraria (`gui/container/smithing` + `sprites/container/smithing/error`): metal da fornalha, martelo e ">" da bigorna, elipse no resultado, painel rebaixado do manequim.
 
 ## 🔨 Em andamento
+- 26/11: **revisão do bambu.** Feito: rampas (casca verde + descascado caqui, em `docs/decisoes/blocos.md`), tronco, folhas, bloco com casca, bloco descascado (redesenho), tábua (desenho próprio). Falta: broto (`bamboo_stage0`, ainda bege), mosaico (inspirado na pedra talhada GM), porta, alçapão, cerca/portão, andaimes, jangada/bote, placas, ícones. Alternativas para testar no jogo em `inbox/`.
 - 26/11: menu do beacon (`gui/container/beacon` + `sprites/container/beacon/*`): papel do baú duplo, painéis rebaixados, pirâmides de blocos de minério, botões de madeira, escolhido = face do beacon, visto/X das lãs. Falta testar no jogo e o "ficou pronto".
 
 ## 📋 Próximo
@@ -34,4 +35,4 @@
 - Conferir `colormap()` do `gm_tools`: para planície devolve #F5C300 (amarelo).
 
 ## 📥 Inbox (imagens soltas para organizar)
-- (nada)
+- `bamboo_block(_top)_alt2`, `stripped_bamboo_block(_top)_alt1`, `_alt2`: alternativas do bambu para testar no jogo (trocar pelos de `block/`).
