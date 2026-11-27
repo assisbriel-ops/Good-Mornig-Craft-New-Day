@@ -33,9 +33,9 @@
 - 26/11: menu do beacon (`gui/container/beacon` + `sprites/container/beacon/*`): papel do baú duplo, painéis rebaixados, pirâmides de blocos de minério, botões de madeira, escolhido = face do beacon, visto/X das lãs. Falta testar no jogo e o "ficou pronto".
 
 - 26/11: gerador de montras (`block/spawner`): principal = opção com detalhes em cáqui nos cantos e no aro; alternativa cinza puro em `inbox/spawner_alt1.png`. Falta testar no jogo e o "ficou pronto".
+- 26/11: tijolo do nether rachado (`block/cracked_nether_bricks`): desenho do Gabriel; só as 25 px abaixo de L 0,15 subiram para 0,15 (mesmo matiz e saturação). Falta testar no jogo e o "ficou pronto".
 
 ## 📋 Próximo
-- Tijolo do nether rachado (`block/cracked_nether_bricks`): ainda NÃO subiu. Tem 25 px abaixo do piso do Nether (L < 0,15; 4 quase pretos, L ≈ 0,07), e o tijolo atual não tem nenhum. Gabriel decide: subir assim ou subir as frestas para L 0,15.
 - Ícones de slot vazio da armadura (`empty_armor_slot_*`, também no inventário) em contorno marrom, diferente dos outros cinza pintados: Gabriel decide depois.
 - Piglin bruto "sem uma orelha" no jogo: a textura tem as duas orelhas (iguais às do piglin); falta print para achar a causa.
 - Zoglin: ainda é o desenho antigo do hoglin em marrom (sem crina, mancha borrada no dorso, disco de nariz, presas mais brancas que o osso GM). Decidir se segue o hoglin novo.
