@@ -32,7 +32,6 @@
 - 27/11: obsidiana chorona (`block/crying_obsidian`) sem animação: ficou parada no quadro 1 (o mais brilhante); `.mcmeta` removido. Falta o "ficou pronto".
 - 27/11: tear: topo girado (pano encaixa no pano da frente); atrás nova `block/loom_back` (prateleiras vazias, fundo com a madeira da bancada de cartografia) via modelo próprio `models/block/loom.json`; novelos só nas laterais. Falta testar no jogo e o "ficou pronto".
 - 27/11: pepino-do-mar (`block/sea_pickle`) refeito no clima dos corais: verde-oliva +18%, poros suaves, fio de luz amarelo claro conectado (pedra luminosa + leque de coral-de-chifre). Ícone `item/sea_pickle` ainda o antigo. Falta testar no jogo e o "ficou pronto".
-- 27/11: bolinha de experiência (`entity/experience_orb`) virou estrela âmbar com centro claro (5 tamanhos repetidos nos 11 níveis).
 - 27/11: brilho de encantamento dos itens (`misc/enchanted_glint_item`, 128x128): 10 faixas verticais que passam da esquerda para a direita, rampa inteira do olho do Ender (#331C47 → #B49DC8), item sempre banhado (piso 25%) com frestas finas sem cor. Alternativa com o olho só até #9367BC em `inbox/`. Falta testar no jogo e o "ficou pronto".
 - 27/11: cobre cortado (4 estágios) com grão no padrão GM + 4 variações sorteadas cada (normal e exposto ±3%; desgastado e oxidado só escurecem 3%). Aprovado. Cortados encerados com o grão novo + brilho, sem variação (de propósito).
 - 27/11: portas e alçapões de cobre (4 estágios + encerados): grão bem leve, no nível da porta de ferro GM (fino ±0,6% + pintinhas raras ±2%), desenho igual; encerados com o mesmo brilho de antes. Lâmpada não mexida. Falta o "ficou pronto".
@@ -43,6 +42,9 @@
 - 27/11: conquistas: abas (`gui/sprites/advancements/tab_*`, 24 sprites) na madeira da moldura da janela, cantos arredondados, escolhida +4% e as outras −8%; aviso de conquista (`gui/sprites/toast/advancement`) em casca do carvalho deitada, cantos arredondados, com sombra redonda atrás do item seguindo a rampa da casca (claridade −37%, saturação −25%, piso L 0,24). Alternativa com sombra mais leve em `inbox/`. Falta testar no jogo e o "ficou pronto".
 - 27/11: variações de pedra e terra (`stone1-6`, `stone_fossil`, `dirt1-6`, `dirt_worm1-2`) desligadas para teste: blockstates `stone`/`dirt` só com o bloco base. Modelos e texturas das variações guardados; para religar, voltar os blockstates.
 - 28/11: aviso de receita nova (`gui/sprites/toast/recipe`) em folha de papel com cantos arredondados e sombra redonda suave atrás do item. Aprovado. Falta testar no jogo (folga da bancada no canto).
+- 28/11: água integrada ao azul que o jogo dá à água (água GM cinza × #3F76E4, matiz azul-royal, claridade e saturação mantidas): respingos (`splash_0-3`), esteira da pesca (`gm_pesca_0-3`), visão debaixo d'água (`misc/underwater`), chuva (`environment/rain`), água do balde e dos 6 baldes com bicho (só os pixels de água; o bacalhau azul ficou). Bolhas e estouro sem mudança. Falta testar no jogo e o "ficou pronto".
+- 28/11: farinha de osso, aldeão feliz e composteira com partícula própria: florzinha de 4 pétalas (`particle/gm_flor`) + brilhinhos `gm_cruz_0-2`, 2 flores para cada brilho (`particles/happy_villager.json`, `composter.json`). Aprovado.
+- 28/11: bolinha de experiência (`entity/experience_orb`) virou moeda dourada com anel, 15 px, igual nos 11 níveis (âmbar da estrela anterior). Alternativa em cinza pintado com anel em relevo em `inbox/`. Aprovado; falta testar no jogo.
 
 ## 🔨 Em andamento
 - 26/11: **revisão do bambu.** Feito: rampas, tronco, folhas, blocos, tábua, broto, mosaico, porta e alçapão (verdes), andaimes (verdes), jangada, cerca/portão, placas, ícones do bambu e da porta. Falta: ícones da placa, placa pendurada, jangada e jangada com baú; grão/veio da tábua no bloco descascado. Alternativas para testar no jogo em `inbox/`.
@@ -64,3 +66,4 @@
 - `enchanted_glint_item_alt1`: alternativa do brilho de encantamento (olho do Ender só até o médio, mais perto do roxo conhecido) para testar no jogo (trocar por `misc/enchanted_glint_item`).
 - `spawner_alt1`: alternativa do gerador de montras (cinza puro, sem o cáqui) para testar no jogo (trocar por `block/spawner`).
 - `advancement_toast_alt1`: alternativa do aviso de conquista (sombra do item mais leve: claridade −30%, saturação −22%) para testar no jogo (trocar por `gui/sprites/toast/advancement`).
+- `experience_orb_alt1`: alternativa da moeda de experiência (cinza pintado, anel em relevo; o jogo pinta por cima) para testar no jogo (trocar por `entity/experience_orb`).

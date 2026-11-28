@@ -1,8 +1,13 @@
 {
   "textures": [
+    "minecraft:gm_flor",
+    "minecraft:gm_flor",
+    "minecraft:gm_flor",
+    "minecraft:gm_flor",
+    "minecraft:gm_flor",
+    "minecraft:gm_flor",
     "minecraft:gm_cruz_0",
     "minecraft:gm_cruz_1",
-    "minecraft:gm_cruz_2",
-    "minecraft:gm_cruz_aberta"
+    "minecraft:gm_cruz_2"
   ]
 }
