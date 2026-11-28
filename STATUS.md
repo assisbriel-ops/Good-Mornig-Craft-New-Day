@@ -42,6 +42,7 @@
 - 27/11: trio granito, diorito e andesito: diorito com manchas mais quadradas (ajuste de 1 px); granito sem variações; lisos refeitos a partir do bruto + corte, com polimento leve. Aprovado.
 - 27/11: conquistas: abas (`gui/sprites/advancements/tab_*`, 24 sprites) na madeira da moldura da janela, cantos arredondados, escolhida +4% e as outras −8%; aviso de conquista (`gui/sprites/toast/advancement`) em casca do carvalho deitada, cantos arredondados, com sombra redonda atrás do item seguindo a rampa da casca (claridade −37%, saturação −25%, piso L 0,24). Alternativa com sombra mais leve em `inbox/`. Falta testar no jogo e o "ficou pronto".
 - 27/11: variações de pedra e terra (`stone1-6`, `stone_fossil`, `dirt1-6`, `dirt_worm1-2`) desligadas para teste: blockstates `stone`/`dirt` só com o bloco base. Modelos e texturas das variações guardados; para religar, voltar os blockstates.
+- 28/11: aviso de receita nova (`gui/sprites/toast/recipe`) em folha de papel com cantos arredondados e sombra redonda suave atrás do item. Aprovado. Falta testar no jogo (folga da bancada no canto).
 
 ## 🔨 Em andamento
 - 26/11: **revisão do bambu.** Feito: rampas, tronco, folhas, blocos, tábua, broto, mosaico, porta e alçapão (verdes), andaimes (verdes), jangada, cerca/portão, placas, ícones do bambu e da porta. Falta: ícones da placa, placa pendurada, jangada e jangada com baú; grão/veio da tábua no bloco descascado. Alternativas para testar no jogo em `inbox/`.
